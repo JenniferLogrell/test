@@ -5,3 +5,7 @@ h1 {
 .book {
     background-color: bisque;
 }
+footer {
+    background-color:black;
+    color:chartreuse;
+}
